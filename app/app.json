@@ -1,0 +1,12 @@
+{
+  "name": "delta-app-demo",
+  "displayName": "delta-app-demo",
+  "expo": {
+    "name": "delta-app-demo",
+    "slug": "delta-app-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
