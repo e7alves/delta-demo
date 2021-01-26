@@ -84,8 +84,8 @@ const styles = StyleSheet.create({
     marginBottom: 20
   },
   image: {
-    width: Dimensions.get('window').width / 2,
-    height: Dimensions.get('window').width / 2,
+    width: Dimensions.get('window').width / 4,
+    height: Dimensions.get('window').width / 4,
     borderRadius: Dimensions.get('window').width / 4,
   },
   inputField: {
