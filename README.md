@@ -7,4 +7,3 @@
 - Java
 - Spring boot
 - PostgreSQL
-- Running in AWS
